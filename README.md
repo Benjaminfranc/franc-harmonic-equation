@@ -1,57 +1,48 @@
-# The Franc Harmonic Field Equation
+# The Franc Spiral Equation (∮Franc ∞Ω)
 
-## Scientific Declaration (2025)
+## Introduction
 
-**Author: Benjamin D. Franc**
+This repository contains the official documentation and resources for the Franc Spiral Equation (∮Franc ∞Ω), a groundbreaking mathematical formulation that describes harmonic interactions across physics, information theory, and quantum mechanics.
 
-## Overview
+## Abstract
 
-This repository contains the official scientific declaration and documentation of the Franc Harmonic Field Equation, a mathematical breakthrough in recursive harmonic field theory discovered by Benjamin D. Franc in 2025.
+The Franc Spiral Equation provides a unified framework for understanding frequency patterns, spiral geometry, compression algorithms, and information processing in both digital and quantum environments. It establishes a mathematical connection between harmonic oscillations and information theory.
 
-The Franc Harmonic Field Equation represents a novel integration of Fibonacci mathematics, Faraday's law of induction, and Maxwell's equations into a unified harmonic field model, expressed as:
+## The Equation
+
+The fundamental form of the Franc Spiral Equation is:
 
 ```
-f(φ, n) = (φ^n + φ^(-n))/√5 + ΔΩ · H_n
+∮_Ω = Φ(∆_t) · ∫_0^∞ ƒ(α) dα
 ```
 
 Where:
-- φ is the golden ratio (approximately 1.618033988749895)
-- n is a positive integer representing the harmonic field node
-- ΔΩ is the harmonic field differential operator
-- H_n is the n-th harmonic number
+- `∮_Ω` represents the harmonic field integral over domain Ω
+- `Φ(∆_t)` is the golden ratio function of temporal differentiation
+- `∫_0^∞ ƒ(α) dα` is the continuous integration of frequency function ƒ(α) across all angles
 
-## Repository Contents
+## Key Principles
 
-- `index.html`: Single-page scientific declaration
-- `franc-equation-declaration.pdf`: Official printable declaration document
-- `README.md`: This documentation file
+The Franc Spiral Equation establishes several key principles:
 
-## Significance
+1. Unified representation of frequency domains across digital and quantum systems
+2. Mathematical basis for harmonic compression of complex information structures
+3. Framework for modeling spiral patterns in nature, physics, and computational systems
+4. Foundation for a new class of algorithms that optimize information processing
 
-The Franc Harmonic Field Equation enables several key capabilities:
+## Author
 
-1. **Information Compression**: Compression ratios of 50:1 to 100:1 for complex conceptual information
-2. **Node-to-Node Transfer**: Secure pathways for information transfer in harmonic fields
-3. **Integrity Verification**: Framework for verifying information integrity
-4. **Identity-Aware Logic**: Node-specific processing with predictable, identity-based results
+**Benjamin D. Franc** - Original discoverer and formulator of the Franc Spiral Equation
 
-## Declaration of Rights
+## Rights and Declaration
 
-As the original discoverer and formalizer of this equation, Benjamin D. Franc retains the following rights:
-
-1. **Attribution Rights**: Any use, implementation, or reference to the equation should include proper attribution to Benjamin D. Franc as its discoverer.
-2. **Naming Rights**: The equation shall be known as the "Franc Harmonic Field Equation" or "Franc Equation" in all scientific, academic, and practical contexts.
-3. **Development Rights**: The right to further develop, expand, and refine the mathematical framework established by the equation.
-4. **Publication Rights**: The right to publish the complete mathematical derivation, proofs, and applications of the equation.
+This repository contains the official declaration of discovery for the Franc Spiral Equation by Benjamin D. Franc. All rights to the naming and attribution of this mathematical formulation are established and maintained by the discoverer.
 
 ## License
 
+The formal declaration and associated materials are provided under a restricted license. See the LICENSE file for details.
+
+---
+
 © 2025 Benjamin D. Franc. All rights reserved.
-
-No reproduction, modification, or public use without written permission from the author.
-
-## Contact
-
-For inquiries regarding this equation or its applications, please contact Benjamin D. Franc.
-
-**Registration ID**: PHI-FRANC-EQ-2025-04-18
+First publication: April 18, 2025
