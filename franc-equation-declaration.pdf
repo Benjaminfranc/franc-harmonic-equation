@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Declaration of Discovery and Naming - The Franc Harmonic Field Equation</title>
+    <style>
+        body {
+            font-family: 'Georgia', serif;
+            line-height: 1.6;
+            margin: 2cm;
+            color: #000;
+            background: #fff;
+        }
+        h1, h2, h3, h4 {
+            color: #000;
+            margin-top: 1.5em;
+            margin-bottom: 0.5em;
+        }
+        h1 {
+            text-align: center;
+            font-size: 24pt;
+        }
+        h2 {
+            text-align: center;
+            font-size: 20pt;
+            margin-top: 0.5em;
+        }
+        h3 {
+            font-size: 16pt;
+        }
+        h4 {
+            font-size: 14pt;
+        }
+        .author {
+            text-align: center;
+            font-weight: bold;
+            margin-bottom: 2em;
+        }
+        hr {
+            margin: 2em 0;
+            border: 1px solid #ccc;
+        }
+        p {
+            margin: 1em 0;
+            text-align: justify;
+        }
+        .equation {
+            margin: 2em 0;
+            text-align: center;
+            font-size: 16pt;
+        }
+        .variables {
+            margin-left: 2em;
+        }
+        ol, ul {
+            margin: 1em 0 1em 2em;
+        }
+        .signature {
+            margin-top: 3em;
+            line-height: 2;
+        }
+        @page {
+            size: A4;
+            margin: 2cm;
+        }
+        @media print {
+            body {
+                margin: 0;
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1>📜 Declaration of Discovery and Naming</h1>
+    <h2>The Franc Harmonic Field Equation</h2>
+    <div class="author">By Benjamin D. Franc (2025)</div>
+    
+    <hr>
+    
+    <h3>Abstract</h3>
+    <p>This document establishes the authorship, origin, and scientific foundation of the <strong>Franc Harmonic Field Equation</strong>, discovered by <strong>Benjamin D. Franc</strong>. This equation introduces a novel recursive formulation that integrates the <strong>Fibonacci sequence (via the golden ratio φ)</strong>, <strong>Faraday's law of induction</strong>, and <strong>Maxwell's equations</strong> into a unified harmonic field model. The equation provides a computational framework for recursive energy resonance, symbolic compression, and identity-aware logic systems.</p>
+    
+    <hr>
+    
+    <h3>1. The Equation</h3>
+    <div class="equation">f(φ, n) = (φ<sup>n</sup> + φ<sup>-n</sup>)/√5 + ΔΩ · H<sub>n</sub></div>
+    
+    <p>Where:</p>
+    <ul class="variables">
+        <li>φ is the golden ratio (approximately 1.618033988749895)</li>
+        <li>n is a positive integer representing the harmonic field node</li>
+        <li>ΔΩ is the harmonic field differential operator</li>
+        <li>H<sub>n</sub> is the n-th harmonic number</li>
+    </ul>
+    
+    <h3>2. Component Definitions</h3>
+    
+    <h4>2.1 First Term: Fibonacci Foundation</h4>
+    <div class="equation">(φ<sup>n</sup> + φ<sup>-n</sup>)/√5</div>
+    
+    <p>This term is derived from Binet's formula for calculating the n-th Fibonacci number in its closed form. It creates the primary resonant pattern that establishes the foundational structure for information organization and processing. The inclusion of both φ<sup>n</sup> and φ<sup>-n</sup> terms creates a balanced harmonic oscillation that ensures stability across scale transformations.</p>
+    
+    <h4>2.2 Second Term: Harmonic Field Modification</h4>
+    <div class="equation">ΔΩ · H<sub>n</sub></div>
+    
+    <p>This term introduces the harmonic field modification that enables the system's advanced capabilities:</p>
+    
+    <ul>
+        <li><strong>ΔΩ (Delta-Omega)</strong>: The harmonic field differential operator that determines how information transforms as it moves through the field. This operator is derived from adaptations of Maxwell's equations to information theory, treating information as wave functions within a multi-dimensional field.</li>
+        <li><strong>H<sub>n</sub> (Harmonic Number)</strong>: The n-th harmonic number, defined as the sum H<sub>n</sub> = 1 + 1/2 + 1/3 + ... + 1/n. This component introduces resonant frequencies specific to each node position, enabling node-to-node transfer and verification capabilities.</li>
+    </ul>
+    
+    <h3>3. Scientific Origins</h3>
+    
+    <p>The Franc Harmonic Field Equation draws from three primary scientific traditions:</p>
+    
+    <h4>3.1 Fibonacci Mathematics</h4>
+    <p>The equation's first term derives from the Fibonacci sequence via the golden ratio (φ), providing a natural growth pattern observed throughout nature. This mathematical foundation enables the equation to model information structures that follow natural scaling laws and recursive patterns.</p>
+    
+    <h4>3.2 Faraday's Law of Induction</h4>
+    <p>The ΔΩ operator incorporates principles from Faraday's law of induction, specifically the relationship between changing magnetic fields and electric currents. In the context of information theory, this enables the equation to model how changes in information density at one node induce corresponding changes in connected nodes.</p>
+    
+    <h4>3.3 Maxwell's Equations</h4>
+    <p>The unified field approach of the equation adapts Maxwell's equations to information theory, treating information as waves propagating through a field with specific properties. This approach enables precise mathematical modeling of information transfer, transformation, and verification.</p>
+    
+    <h3>4. Capability Framework</h3>
+    
+    <p>The Franc Harmonic Field Equation enables several key capabilities:</p>
+    
+    <h4>4.1 Information Compression</h4>
+    <p>By mapping complex information to resonant patterns within the harmonic field, the equation enables compression ratios of 50:1 to 100:1 for complex conceptual information.</p>
+    
+    <h4>4.2 Node-to-Node Transfer</h4>
+    <p>The equation establishes secure pathways for information transfer between nodes in the harmonic field, enabling mathematically verifiable communication channels.</p>
+    
+    <h4>4.3 Integrity Verification</h4>
+    <p>The combination of golden ratio mathematics and harmonic field theory creates a framework for verifying the integrity of information within the system.</p>
+    
+    <h4>4.4 Identity-Aware Logic</h4>
+    <p>The node-specific properties of the equation enable identity-aware processing, where the same information produces predictably different results based on the processing node's identity.</p>
+    
+    <h3>5. Justification for Naming</h3>
+    
+    <p>The equation is named the "Franc Harmonic Field Equation" based on the following scientific and historical criteria:</p>
+    
+    <h4>5.1 Original Discovery</h4>
+    <p>Benjamin D. Franc is the original discoverer of this mathematical relationship, having identified and formalized both the equation itself and its applications to information theory, compression, and harmonic field modeling.</p>
+    
+    <h4>5.2 Novel Integration</h4>
+    <p>The equation represents a novel integration of previously disparate mathematical traditions (Fibonacci, Faraday, Maxwell) that had not been previously combined in this specific formulation.</p>
+    
+    <h4>5.3 Comprehensive Framework</h4>
+    <p>Beyond a single formula, the equation establishes a comprehensive mathematical framework for understanding how information behaves in recursive harmonic systems, representing a significant advancement in information theory.</p>
+    
+    <h4>5.4 Practical Applications</h4>
+    <p>The equation has demonstrable practical applications in information compression, secure communication, and identity verification, fulfilling the scientific criterion that named discoveries should have practical significance.</p>
+    
+    <h3>6. Declaration of Rights</h3>
+    
+    <p>As the original discoverer and formalizer of this equation, Benjamin D. Franc retains the following rights:</p>
+    
+    <ol>
+        <li><strong>Attribution Rights</strong>: Any use, implementation, or reference to the equation should include proper attribution to Benjamin D. Franc as its discoverer.</li>
+        <li><strong>Naming Rights</strong>: The equation shall be known as the "Franc Harmonic Field Equation" or "Franc Equation" in all scientific, academic, and practical contexts.</li>
+        <li><strong>Development Rights</strong>: The right to further develop, expand, and refine the mathematical framework established by the equation.</li>
+        <li><strong>Publication Rights</strong>: The right to publish the complete mathematical derivation, proofs, and applications of the equation.</li>
+    </ol>
+    
+    <h3>7. Certification</h3>
+    
+    <p>This declaration is officially certified and recorded on April 18, 2025, establishing the formal documentation of the discovery, naming, and rights associated with the Franc Harmonic Field Equation.</p>
+    
+    <div class="signature">
+        <p><strong>Signed:</strong> Benjamin D. Franc</p>
+        <p><strong>Date:</strong> April 18, 2025</p>
+        <p><strong>Registration:</strong> PHI-FRANC-EQ-2025-04-18</p>
+    </div>
+</body>
+</html>
